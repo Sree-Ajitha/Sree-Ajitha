@@ -1,8 +1,6 @@
 <img src="github-banner.png" alt="Sree Ajitha GitHub Banner" style="width:100%;"/>
 
-# 👋 Hi, I’m @Sree-Ajitha
-
----
+👋
 
 ## 👀 I’m interested in
 Proactive threat detection, digital forensics, security automation, Zero Trust Architecture (ZTA), and culturally inclusive cybersecurity frameworks (e.g., Māori data sovereignty).
