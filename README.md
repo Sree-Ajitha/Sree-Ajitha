@@ -1,3 +1,5 @@
+<img src="github-banner.png" alt="Sree Ajitha GitHub Banner" style="width:100%;"/>
+
 # 👋 Hi, I’m @Sree-Ajitha
 
 ---
