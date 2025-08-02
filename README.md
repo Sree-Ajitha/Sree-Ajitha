@@ -73,12 +73,6 @@ I share **short weekly articles** about my cybersecurity journey, research, and 
 | **Cloud Sec**      | GCP, Terraform, IAM, Load Balancing         |
 | **Automation**     | Python, Bash, PowerShell                    |
 
----
 
-## 📫 Connect
-- **Email:** sree@hotmail.co.nz  
-- **LinkedIn:** [linkedin.com/in/sreeaj](https://www.linkedin.com/in/sreeaj)
-
----
 
 > ⚡ *"Cybersecurity is not just my career path, it’s my mindset. I aim to make the digital world safer—one lab at a time."*
