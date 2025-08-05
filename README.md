@@ -52,14 +52,14 @@ Projects showcasing:
 
 ---
 
-## ✍ Weekly Cybersecurity Blog
+## ✍ Cybersecurity Blog
 
-I share **short weekly articles** about my cybersecurity journey, research, and hands-on labs:
+I share **short articles** about my cybersecurity journey, research, and hands-on labs:
 - [How I Detected a Simulated Ransomware Attack Using SIEM](https://YOUR_GITHUB_PAGES_URL/article1)
 - [Forensic Investigation of a Phishing Attack – A Step-by-Step Analysis](https://YOUR_GITHUB_PAGES_URL/article2)
 - [Zero Trust in Practice – My Oracle Cloud Ubuntu Setup](https://YOUR_GITHUB_PAGES_URL/article3)
 
-📌 **New post every Friday** on [GitHub Pages Blog](https://YOUR_GITHUB_PAGES_URL) and [LinkedIn](https://www.linkedin.com/in/sreeaj).
+📌 **New post on [GitHub Pages Blog](https://YOUR_GITHUB_PAGES_URL) and [LinkedIn](https://www.linkedin.com/in/sreeaj).
 
 ---
 
