@@ -21,11 +21,10 @@ Cybersecurity enthusiast pursuing a **Master’s in IT (Cybersecurity)** with ha
 ## 🚀 Featured Projects
 
 ### 🔹 [Threat Hunting Playbooks](https://github.com/YOUR_GITHUB_USERNAME/Threat-Hunting)
-Queries and detection techniques for suspicious activities using Splunk, ELK, and Wireshark.  
+Queries and detection techniques for suspicious activities using Splunk and Wireshark.  
 - MITRE ATT&CK-based detection rules  
 - PCAP analysis labs using Wireshark  
-- Screenshots of real lab scenarios  
-
+ 
 ---
 
 ### 🔹 [DFIR Case Studies](https://github.com/YOUR_GITHUB_USERNAME/DFIR-Cases)
@@ -38,6 +37,7 @@ Digital forensic investigations:
 
 ### 🔹 [Python Security Scripts](https://github.com/YOUR_GITHUB_USERNAME/Python-Security-Tools)
 Automation scripts for:
+- Password Strength Analyzer – Version 2.0
 - Log parsing and suspicious IP detection  
 - Brute force login monitoring  
 - Basic ransomware activity detection  
@@ -76,3 +76,9 @@ I share **short articles** about my cybersecurity journey, research, and hands-o
 
 
 > ⚡ *"Cybersecurity is not just my career path, it’s my mindset. I aim to make the digital world safer—one lab at a time."*
+
+---
+
+> **Note:** This project is currently **In Progress**.  
+> New features, updated scripts, and documentation will be added over the coming weeks.  
+> Feedback and collaboration are welcome.
