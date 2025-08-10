@@ -73,7 +73,55 @@ I share **short articles** about my cybersecurity journey, research, and hands-o
 | **Cloud Sec**      | GCP, Terraform, IAM, Load Balancing         |
 | **Automation**     | Python, Bash, PowerShell                    |
 
+## 🧪 Home Lab Blueprint – VMware & WSL Cybersecurity Simulation
 
+This lab replicates a **multi-segmented network environment** for **penetration testing, SOC analysis, and DFIR exercises**.  
+It combines **on-premises-style VMware VMs** with **cloud-hosted and WSL-based assets**, simulating both enterprise and hybrid infrastructures.
+
+### **Architecture Overview**
+
+| **Platform** | **OS**                       | **Resource Role**                             | **IP Address / CIDR**   |
+|--------------|------------------------------|-----------------------------------------------|-------------------------|
+| **OCI**      | Ubuntu 24.04.2 (LTS)         | Cloud Server                                  | 152.67.0.0/13           |
+| **WSL**      | Kali Linux 2025.1            | Authorised Client                             | 172.18.0.0/18           |
+| **VMware**   | Kali Linux 2025.1            | Penetration Tester                            | 172.16.16.92/16         |
+| **VMware**   | Ubuntu 24.04.2               | Internal Client                               | 172.16.16.93/16         |
+| **VMware**   | Windows 11 24H2              | AD Client                                     | 172.16.16.90/16         |
+| **VMware**   | Windows Server 2025 STD      | Active Directory Server (DNS, Apache, IIS)    | 172.16.16.250/16        |
+| **VMware**   | Metasploitable 2             | Threat Client                                 | 172.16.16.91/16         |
+| **VMware**   | Parrot 6.4 Lorikeet          | Secondary Penetration Tester                  | 172.16.16.33/16         |
+
+---
+
+### **Key Lab Features**
+- **Hybrid Environment:** Mix of cloud-hosted, Linux WSL, and on-prem VMware instances.  
+- **Red & Blue Team Exercises:**  
+  - *Red Team:* Kali Linux & Parrot OS for offensive security and exploitation.  
+  - *Blue Team:* Windows Server + AD for SOC monitoring, DFIR, and incident response.  
+- **Target Systems:** Vulnerable hosts (Metasploitable 2) for controlled exploit testing.  
+- **Simulated Enterprise Services:** DNS, Apache, IIS, and AD authentication.
+
+---
+
+### **Use Cases**
+- Penetration testing & exploit validation  
+- Active Directory attack simulations (Kerberoasting, Pass-the-Hash, GPO abuse)  
+- Threat detection and SIEM rule testing (Splunk, Elastic, Security Onion)  
+- DFIR workflows – log correlation, evidence acquisition, and incident reporting  
+- Cloud-edge integration testing with **OCI Ubuntu node**
+
+---
+
+### **Planned Attack Simulations**
+- **Brute Force Attacks** – Hydra, Medusa against AD & SSH  
+- **Lateral Movement** – SMB relay, WMI exec, RDP hijacking  
+- **Privilege Escalation** – Unquoted service paths, UAC bypass  
+- **Web Exploitation** – SQL injection, XSS on vulnerable apps  
+- **Ransomware Containment Drills** – Simulated encryption & rollback
+
+> ⚡ **Note:** This lab environment is isolated and air-gapped to ensure safe testing of malicious scenarios without impacting production systems.
+
+---
 
 > ⚡ *"Cybersecurity is not just my career path, it’s my mindset. I aim to make the digital world safer—one lab at a time."*
 
