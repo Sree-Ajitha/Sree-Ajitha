@@ -35,7 +35,7 @@ Digital forensic investigations:
 
 ---
 
-### 🔹 [Python Security Scripts](https://github.com/YOUR_GITHUB_USERNAME/Python-Security-Tools)
+### 🔹 [Python Security Scripts](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
 Automation scripts for:
 - Password Strength Analyzer – Version 2.0
 - Log parsing and suspicious IP detection  
