@@ -37,10 +37,10 @@ Digital forensic investigations:
 
 ### 🔹 [Python Security Scripts](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
 Automation scripts for:
-- Password Strength Analyzer – Version 2.0
-- Log parsing and suspicious IP detection  
-- Brute force login monitoring  
-- Basic ransomware activity detection  
+- #### **🔐[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333)**
+- #### **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)** 
+- #### **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)** 
+- #### **🛡 [Ransomware Activity Detection Script](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fb8d85bf707cc73f10f7bc9b633a59cdb2acc814/Basic%20ransomware%20activity%20detection.md)** 
 
 ---
 
