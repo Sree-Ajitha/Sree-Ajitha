@@ -3,8 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sree-Ajitha&label=Profile%20Views&color=0e75b6&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreeaj)  
-[![Email](https://img.shields.io/badge/Email-sree%40hotmail.co.nz-red?style=flat&logo=gmail)](mailto:sree@hotmail.co.nz)  
-
+[![Email](https://img.shields.io/badge/Email-sree%40hotmail.co.nz-red?style=flat&logo=gmail)](mailto:hi@sreeajitha.me)  
+> **Note:** This project is currently **In Progress**.  
+> New features, updated scripts, and documentation will be added over the coming weeks.
 ---
 
 ## 🛡️ About Me
@@ -129,4 +130,4 @@ It combines **on-premises-style VMware VMs** with **cloud-hosted and WSL-based a
 
 > **Note:** This project is currently **In Progress**.  
 > New features, updated scripts, and documentation will be added over the coming weeks.  
-> Feedback and collaboration are welcome.
+> Feedback are welcome.
