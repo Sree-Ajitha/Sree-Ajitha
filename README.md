@@ -7,10 +7,7 @@
 > **Note:** This project is currently **In Progress**.  
 > New features, updated scripts, and documentation will be added over the coming weeks.
 ---
-
-## 🎓 Certifications  
-
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![CS50 Harvard](https://img.shields.io/badge/CS50%20Harvard-A51C30?style=for-the-badge&logo=harvard&logoColor=white)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+> **Goal:** To build a strong portfolio demonstrating **real-world security skills** and readiness for a cybersecurity analyst role.
 
 ---
 
@@ -26,19 +23,6 @@
 - 🏆 Active in CTFs (NZCSC, Try Hack Me)  
 - ✍️ Authored 100+ troubleshooting articles to streamline resolution  
 - 📖 Researching Open-Source SOC & Zero Trust Security as part of Master’s study  
-
----
-> **Goal:** To build a strong portfolio demonstrating **real-world security skills** and readiness for a cybersecurity analyst role.
----
-
-## 🚀 Featured Projects
-
-### [Python Security Tools](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
-     
-- #### **🔐[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333)**
-- #### **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)** 
-- #### **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)** 
-- #### **🛡 [Ransomware Activity Detection Script](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fb8d85bf707cc73f10f7bc9b633a59cdb2acc814/Basic%20ransomware%20activity%20detection.md)** 
 
 ---
 ## 🛠️ Tools & Platforms
@@ -70,31 +54,54 @@ It combines **on-premises-style VMware VMs** with **cloud-hosted and WSL-based a
 | **VMware**   | Parrot 6.4 Lorikeet          | Secondary Penetration Tester                  | 178.16.16.33/16         |
 
 ---
+## 🎓 Certifications  
 
-### 🔹 [Threat Hunting Playbooks](https://github.com/YOUR_GITHUB_USERNAME/Threat-Hunting)
-Queries and detection techniques for suspicious activities using Splunk and Wireshark.  
-- MITRE ATT&CK-based detection rules  
-- PCAP analysis labs using Wireshark  
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![CS50 Harvard](https://img.shields.io/badge/CS50%20Harvard-A51C30?style=for-the-badge&logo=harvard&logoColor=white)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+
+---
+## 🚀 Featured Projects
+
+### [Python Security Tools](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
+     
+- #### **🔐[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333)**
+- #### **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)** 
+- #### **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)** 
+- #### **🛡 [Ransomware Activity Detection Script](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fb8d85bf707cc73f10f7bc9b633a59cdb2acc814/Basic%20ransomware%20activity%20detection.md)** 
+
+---
+
+### 🔹 [Threat Hunting Playbooks](https://github.com/Sree-Ajitha/Threat-Hunting-Playbooks/blob/09f575c9f0b83491dd68a7dda90c5cbcb7d509b5/README.md)
+#### [⚡Firefox Zero-Day - CVE-2024-9680](https://github.com/Sree-Ajitha/Threat-Hunting-Playbooks/blob/1dbf8c2b346fc9a1ded19bc277bb9e33eb6de441/Firefox%20Zero-Day%20CVE-2024-9680.md)
+- **Exploit Type:** Use-After-Free (UAF) → Remote Code Execution  
+- **Attack Methods:** Drive-by downloads, watering hole attacks  
+- **Mitigation:** Apply patches, enable automatic updates, maintain backups, use endpoint protection
  
 ---
 
-### 🔹 [DFIR Case Studies](https://github.com/YOUR_GITHUB_USERNAME/DFIR-Cases)
-Digital forensic investigations:
-- Evidence acquisition, timeline analysis, and incident reports  
-- Open-source forensic tools (Volatility, Autopsy)  
-- Sample simulated attack reports
+### 🔹 [DFIR Case Studies](https://github.com/Sree-Ajitha/DFIR-Cases/blob/72d0845dac2c5f7eb229098035d4b51bf51a629f/README.md)
+#### [Hybrid Infrastructure Deployment](https://github.com/Sree-Ajitha/DFIR-Cases/blob/3cf5ba11da2afa1ce21f75b00a425a68529d3fb6/Hybrid%20Infrastructure%20Deployment.md)
+***Hybrid cloud and on-premises environment for DFIR, SOC monitoring, and penetration testing with automated workflows.***
+- **Monitoring & SIEM:** Splunk, Wazuh  
+- **Vulnerability & Pen Testing:** Nessus, OpenVAS, Metasploit  
+- **Automation & Deployment:** Docker, n8n, Nginx  
+- **Network Security:** OpenVPN, OCI VPN, Entra AD RBAC 
 
 ---
 
-### 🔹 [Cloud Security Labs (GCP)](https://github.com/YOUR_GITHUB_USERNAME/Cloud-Security-Labs)
-Projects showcasing:
-- IAM access configuration, monitoring, and logging  
-- Secure network architecture setup on GCP  
-- Terraform-based provisioning
+### 🔹 [Cloud Security Labs (GCP)](https://github.com/Sree-Ajitha/Cloud-Security-Labs/blob/ad44ac96bc023343b80b70a3a889e4d18b3caa23/README.md)
+- Earned **Google Cloud Associate Cloud Engineer** certification  
+- Deployed **secure, scalable cloud infrastructure**  
+- Automated workflows and infrastructure provisioning using **Terraform**  
+- Applied **zero-trust principles and cloud security best practices**  
+- Practiced hybrid cloud integration, monitoring, and resilience testing
 
 ---
+### 🔹 [Vulnerability_Scans](https://github.com/Sree-Ajitha/Vulnerability_Scans/blob/409aa9fcf17f323208db8d4ce7334fa50209498c/README.md)
+#### [VPN Performance Evaluation](https://github.com/Sree-Ajitha/Vulnerability_Scans/blob/c99012c2bf33f7f44497828b125fb8d97b7c6287/Performance%20evaluation%20of%20VPN%20Protocols.md)
 
-
+- **IPsec:** Higher throughput at large packet sizes  
+- **OpenVPN:** Better performance at small packet sizes  
+-  Latency fluctuates depending on network conditions
 
 ---
 
