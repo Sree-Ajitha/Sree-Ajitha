@@ -45,11 +45,11 @@
 
 | Category          | Tools |
 |--------------------|---------------------------------------------|
-| **SOC Monitoring** | Splunk, Wireshark, Security Onion, Nagios   |
+| **SOC Monitoring** | Splunk, Wireshark, Security Onion, Wazuh   |
 | **DFIR**           | Volatility, Autopsy, FTK Imager, Log2Timeline |
 | **Offensive Sec**  | Kali Linux, Metasploit, Nmap, Burp Suite    |
 | **Cloud Sec**      | GCP, Terraform, IAM, Load Balancing         |
-| **Automation**     | Python, Bash, PowerShell                    |
+| **Automation**     | Python, Bash, PowerShell, html              |
 
 ## 🧪 Home Lab Blueprint – VMware & WSL Cybersecurity Simulation
 
@@ -94,46 +94,7 @@ Projects showcasing:
 
 ---
 
-## ✍ Cybersecurity Blog
 
-I share **short articles** about my cybersecurity journey, research, and hands-on labs:
-- [How I Detected a Simulated Ransomware Attack Using SIEM](https://YOUR_GITHUB_PAGES_URL/article1)
-- [Forensic Investigation of a Phishing Attack – A Step-by-Step Analysis](https://YOUR_GITHUB_PAGES_URL/article2)
-- [Zero Trust in Practice – My Oracle Cloud Ubuntu Setup](https://YOUR_GITHUB_PAGES_URL/article3)
-
-📌 **New post on [GitHub Pages Blog](https://YOUR_GITHUB_PAGES_URL) and [LinkedIn](https://www.linkedin.com/in/sreeaj).
-
----
-
-
-
-### **Key Lab Features**
-- **Hybrid Environment:** Mix of cloud-hosted, Linux WSL, and on-prem VMware instances.  
-- **Red & Blue Team Exercises:**  
-  - *Red Team:* Kali Linux & Parrot OS for offensive security and exploitation.  
-  - *Blue Team:* Windows Server + AD for SOC monitoring, DFIR, and incident response.  
-- **Target Systems:** Vulnerable hosts (Metasploitable 2) for controlled exploit testing.  
-- **Simulated Enterprise Services:** DNS, Apache, IIS, and AD authentication.
-
----
-
-### **Use Cases**
-- Penetration testing & exploit validation  
-- Active Directory attack simulations (Kerberoasting, Pass-the-Hash, GPO abuse)  
-- Threat detection and SIEM rule testing (Splunk, Elastic, Security Onion)  
-- DFIR workflows – log correlation, evidence acquisition, and incident reporting  
-- Cloud-edge integration testing with **OCI Ubuntu node**
-
----
-
-### **Planned Attack Simulations**
-- **Brute Force Attacks** – Hydra, Medusa against AD & SSH  
-- **Lateral Movement** – SMB relay, WMI exec, RDP hijacking  
-- **Privilege Escalation** – Unquoted service paths, UAC bypass  
-- **Web Exploitation** – SQL injection, XSS on vulnerable apps  
-- **Ransomware Containment Drills** – Simulated encryption & rollback
-
-> ⚡ **Note:** This lab environment is isolated and air-gapped to ensure safe testing of malicious scenarios without impacting production systems.
 
 ---
 
