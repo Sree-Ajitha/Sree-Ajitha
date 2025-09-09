@@ -1,28 +1,40 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Sree-Ajitha&label=Profile%20Views&color=0e75b6&style=flat)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeaj) [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@sreeajitha.me)  
+---
 # 👋 Hi, I'm Sree Ajitha  
-**Aspiring Cybersecurity Analyst | SOC & Threat Hunting | Building Secure Digital Frontiers**
+***🔐 Cybersecurity Professional & Systems Support Analyst | SOC, SIEM & SOAR | 🎯 Active CTF Competitor | 📚 Master's in Cyber Security***
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sree-Ajitha&label=Profile%20Views&color=0e75b6&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreeaj)  
-[![Email](https://img.shields.io/badge/Email-sree%40hotmail.co.nz-red?style=flat&logo=gmail)](mailto:hi@sreeajitha.me)  
+---
 > **Note:** This project is currently **In Progress**.  
 > New features, updated scripts, and documentation will be added over the coming weeks.
 ---
 
-## 🛡️ About Me
+## 🎓 Certifications  
 
-Cybersecurity enthusiast pursuing a **Master’s in IT (Cybersecurity)** with hands-on expertise in:
-- **SOC Analysis, Threat Hunting, Digital Forensics, Cloud Security, Python Scripting**
-- Experience in **CTF challenges, malware analysis, ethical hacking, and SIEM monitoring**
-- Certified **Junior Security Analyst (SBT)**, **Google Associate Cloud Engineer**, **Microsoft AZ-900, AI-900, SC-900**
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![CS50 Harvard](https://img.shields.io/badge/CS50%20Harvard-A51C30?style=for-the-badge&logo=harvard&logoColor=white)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 
+---
+
+## 🛠 Technical Skills  
+- **Cybersecurity**: Suricata, Zeek, Splunk, Wazuh, Nessus, OpenVAS, Scout Suite  
+- **Forensics & Threat Hunting**: IOC development, Redline, Wireshark, Tshark  
+- **Automation & Cloud**: n8n, Trace Cat, Docker, Nginx, rclone, Linux/Windows admin  
+- **Scripting & Dev**: Python, Bash, Batch, HTML  
+
+---
+
+## 🚀 Highlights  
+- 🏆 Active in CTFs (NZCSC, Try Hack Me)  
+- ✍️ Authored 100+ troubleshooting articles to streamline resolution  
+- 📖 Researching Open-Source SOC & Zero Trust Security as part of Master’s study  
+
+---
 > **Goal:** To build a strong portfolio demonstrating **real-world security skills** and readiness for a cybersecurity analyst role.
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Python Security Scripts](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
-Automation scripts for:
+### [Python Security Scripts](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
+     
 - #### **🔐[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333)**
 - #### **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)** 
 - #### **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)** 
