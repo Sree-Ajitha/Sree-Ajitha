@@ -21,6 +21,44 @@ Cybersecurity enthusiast pursuing a **Master’s in IT (Cybersecurity)** with ha
 
 ## 🚀 Featured Projects
 
+### 🔹 [Python Security Scripts](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
+Automation scripts for:
+- #### **🔐[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333)**
+- #### **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)** 
+- #### **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)** 
+- #### **🛡 [Ransomware Activity Detection Script](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fb8d85bf707cc73f10f7bc9b633a59cdb2acc814/Basic%20ransomware%20activity%20detection.md)** 
+
+---
+## 🛠️ Tools & Platforms
+
+| Category          | Tools |
+|--------------------|---------------------------------------------|
+| **SOC Monitoring** | Splunk, Wireshark, Security Onion, Nagios   |
+| **DFIR**           | Volatility, Autopsy, FTK Imager, Log2Timeline |
+| **Offensive Sec**  | Kali Linux, Metasploit, Nmap, Burp Suite    |
+| **Cloud Sec**      | GCP, Terraform, IAM, Load Balancing         |
+| **Automation**     | Python, Bash, PowerShell                    |
+
+## 🧪 Home Lab Blueprint – VMware & WSL Cybersecurity Simulation
+
+This lab replicates a **multi-segmented network environment** for **penetration testing, SOC analysis, and DFIR exercises**.  
+It combines **on-premises-style VMware VMs** with **cloud-hosted and WSL-based assets**, simulating both enterprise and hybrid infrastructures.
+
+### **Architecture Overview**
+
+| **Platform** | **OS**                       | **Resource Role**                             | **IP Address / CIDR**   |
+|--------------|------------------------------|-----------------------------------------------|-------------------------|
+| **OCI**      | Ubuntu 24.04.2 (LTS)         | Cloud Server                                  | 122.67.0.0/13           |
+| **WSL**      | Kali Linux 2025.1            | Authorised Client                             | 178.18.0.0/18           |
+| **VMware**   | Kali Linux 2025.1            | Penetration Tester                            | 178.16.16.92/16         |
+| **VMware**   | Ubuntu 24.04.2               | Internal Client                               | 178.16.16.93/16         |
+| **VMware**   | Windows 11 24H2              | AD Client                                     | 178.16.16.90/16         |
+| **VMware**   | Windows Server 2025 STD      | Active Directory Server (DNS, Apache, IIS)    | 178.16.16.250/16        |
+| **VMware**   | Metasploitable 2             | Threat Client                                 | 178.16.16.91/16         |
+| **VMware**   | Parrot 6.4 Lorikeet          | Secondary Penetration Tester                  | 178.16.16.33/16         |
+
+---
+
 ### 🔹 [Threat Hunting Playbooks](https://github.com/YOUR_GITHUB_USERNAME/Threat-Hunting)
 Queries and detection techniques for suspicious activities using Splunk and Wireshark.  
 - MITRE ATT&CK-based detection rules  
@@ -33,15 +71,6 @@ Digital forensic investigations:
 - Evidence acquisition, timeline analysis, and incident reports  
 - Open-source forensic tools (Volatility, Autopsy)  
 - Sample simulated attack reports
-
----
-
-### 🔹 [Python Security Scripts](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/043d678e509130da729bf498dc15e9dba14093da/README.md)
-Automation scripts for:
-- #### **🔐[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333)**
-- #### **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)** 
-- #### **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)** 
-- #### **🛡 [Ransomware Activity Detection Script](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fb8d85bf707cc73f10f7bc9b633a59cdb2acc814/Basic%20ransomware%20activity%20detection.md)** 
 
 ---
 
@@ -64,35 +93,7 @@ I share **short articles** about my cybersecurity journey, research, and hands-o
 
 ---
 
-## 🛠️ Tools & Platforms
 
-| Category          | Tools |
-|--------------------|---------------------------------------------|
-| **SOC Monitoring** | Splunk, Wireshark, Security Onion, Nagios   |
-| **DFIR**           | Volatility, Autopsy, FTK Imager, Log2Timeline |
-| **Offensive Sec**  | Kali Linux, Metasploit, Nmap, Burp Suite    |
-| **Cloud Sec**      | GCP, Terraform, IAM, Load Balancing         |
-| **Automation**     | Python, Bash, PowerShell                    |
-
-## 🧪 Home Lab Blueprint – VMware & WSL Cybersecurity Simulation
-
-This lab replicates a **multi-segmented network environment** for **penetration testing, SOC analysis, and DFIR exercises**.  
-It combines **on-premises-style VMware VMs** with **cloud-hosted and WSL-based assets**, simulating both enterprise and hybrid infrastructures.
-
-### **Architecture Overview**
-
-| **Platform** | **OS**                       | **Resource Role**                             | **IP Address / CIDR**   |
-|--------------|------------------------------|-----------------------------------------------|-------------------------|
-| **OCI**      | Ubuntu 24.04.2 (LTS)         | Cloud Server                                  | 152.67.0.0/13           |
-| **WSL**      | Kali Linux 2025.1            | Authorised Client                             | 172.18.0.0/18           |
-| **VMware**   | Kali Linux 2025.1            | Penetration Tester                            | 172.16.16.92/16         |
-| **VMware**   | Ubuntu 24.04.2               | Internal Client                               | 172.16.16.93/16         |
-| **VMware**   | Windows 11 24H2              | AD Client                                     | 172.16.16.90/16         |
-| **VMware**   | Windows Server 2025 STD      | Active Directory Server (DNS, Apache, IIS)    | 172.16.16.250/16        |
-| **VMware**   | Metasploitable 2             | Threat Client                                 | 172.16.16.91/16         |
-| **VMware**   | Parrot 6.4 Lorikeet          | Secondary Penetration Tester                  | 172.16.16.33/16         |
-
----
 
 ### **Key Lab Features**
 - **Hybrid Environment:** Mix of cloud-hosted, Linux WSL, and on-prem VMware instances.  
